@@ -1,4 +1,4 @@
-package SQLGO
+package main
 
 import (
 	"flag"
